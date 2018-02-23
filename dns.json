@@ -6,6 +6,7 @@
 "ResourceRecordSet": {
 "Name": "testapp.vamsi240101.tk",
 "Type": "CNAME",
+"TTL": 1000,
 "ResourceRecords": [
 {
 "Value": ""
