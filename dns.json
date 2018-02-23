@@ -4,7 +4,7 @@
 {
 "Action": "CREATE",
 "ResourceRecordSet": {
-"Name": "testapp",
+"Name": "testapp.vamsi240101.tk",
 "Type": "CNAME",
 "ResourceRecords": [
 {
