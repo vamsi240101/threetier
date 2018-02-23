@@ -9,7 +9,7 @@
 "TTL": 1000,
 "ResourceRecords": [
 {
-"Value": "FELBNAME"
+"Value":"FELBNAME"
 }
 ]
 }
